@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lovv Dutch character'd, their butter-box opened, and their juggles apprehended and reproved.</title>
+            <author>T. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90387</idno>
+            <idno type="STC">Wing P114B</idno>
+            <idno type="STC">ESTC R181394</idno>
+            <idno type="EEBO-CITATION">45504499</idno>
+            <idno type="OCLC">ocm 45504499</idno>
+            <idno type="VID">171815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lovv Dutch character'd, their butter-box opened, and their juggles apprehended and reproved.</title>
+                  <author>T. P.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by Francis Cossinet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Compiled ... by T.P. a true friend of the English interest ..."--P. 5.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Netherlands --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171815:1" rendition="simple:additions"/>
+            <p>THE Lovv Dutch character'd THEIR BUTTER-BOX OPENED, And their JUGGLES Apprehended and Reproved.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, and are to be ſold by <hi>Francis Coſ<g ref="char:EOLhyphen"/>ſinet</hi> at the <hi>Anchor and Mariner</hi> in Tower-ſtreet. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:171815:2"/>
+            <pb n="1" facs="tcp:171815:2"/>
+            <head>The <hi>Low Dutch</hi> Charactered, their Butter-box open<g ref="char:EOLhyphen"/>ed, and their Juggles apprehended and reproved.</head>
+            <lg>
+               <l>
+                  <hi>LOw Dutch,</hi> that to Religion do pretend,<note place="margin">A little Religi<g ref="char:EOLhyphen"/>on, and as little Zeal ſerves their turns.</note>
+               </l>
+               <l>Your Wits, your Studies and Indeavors bend</l>
+               <l>To cheat, connive, play Bo-peep, and defraud,<note place="margin">Plentifully, readily.</note>
+               </l>
+               <l>Yea, for your profit, you will turn a Bawd</l>
+               <l>To all the world,<note place="margin">They keep their faſhions, alter not their maners.</note> but lately to <hi>England</hi>
+               </l>
+               <l>Your Juggles have appeared at command.</l>
+               <l>You, you Trunk-breeches, you great Butter-boxes,<note place="margin">Any thing for gelt.</note>
+               </l>
+               <l>We did not think you'd been ſuch crafty Foxes;<note place="margin">Give him his great belly full &amp; make him ſat, he'l feed the worms &amp; manure the earth the better.</note>
+               </l>
+               <l>Sometimes you'l ſtrike us, then again you'l ſtroke us,</l>
+               <l>And for your gain you'l be like <hi>Hocus Pocus.</hi>
+               </l>
+               <l>You that for earths great globe do nought but gape,</l>
+               <l>Can <hi>Proteus</hi> like appear in any ſhape:</l>
+               <l>Your ſelves you do invelope in each State,<note place="margin">A welcome gift. Their golden chain and ſilver engine, reacheth over the ſeas and worketh ſtrange effects on land.</note>
+               </l>
+               <l>And by your tricks fill <hi>Europe</hi> with debate;</l>
+               <l>You'l have a hand in Councels, you an Oar</l>
+               <l>In every boat, you'l have a trick in ſtore,</l>
+               <l>Neatly to cozen under ſpecious ſhows,</l>
+               <l>T'enrich your kinders and your Bumkin vrows,<note place="margin">Take a Chamber, and procure one to own a ſmall ad<g ref="char:EOLhyphen"/>venture, and be<g ref="char:EOLhyphen"/>come a Burger, their ſhip and goods free of the place.</note>
+               </l>
+               <l>Your faſt and looſe, your craft who can abide</l>
+               <l>When you appear a Jack of every ſide?</l>
+               <l>Sometimes <hi>Hamburgians,</hi> ſometimes <hi>Norwaigens;</hi>
+               </l>
+               <l>Sometimes <hi>Oſterlins, Swead, Pruiſe, Breamingens,</hi>
+               </l>
+               <l>Sometimes <hi>Engliſh, French, Flandern</hi> and <hi>Hollander,</hi>
+                  <note place="margin">In theſe countries they have great trade, and vend their commodities here.</note>
+               </l>
+               <l>Thus for your Gelt you will become a Pander.</l>
+               <l>The Seas and Coaſts you range for your advance,</l>
+               <l>To <hi>Italy, Spain,</hi> to <hi>Portugal</hi> and <hi>France,</hi>
+               </l>
+               <pb n="2" facs="tcp:171815:3"/>
+               <l> To <hi>Norway, Iſland, Ruſsia, Greenland</hi> flie</l>
+               <l>For every ſort of their Commodity;</l>
+               <l>But you, <hi>fat Hanſes,</hi> when you ſometimes lurk</l>
+               <l>Within the Territories of the Turk,</l>
+               <l>You then come home by ſad and weeping croſs,</l>
+               <l>And oft are forced to lament your Loſs.</l>
+               <l>Your <hi>Menniſts</hi> will not fight, they'r ſo diſmay'd,<note place="margin">Their Annaba ptiſts.</note>
+               </l>
+               <l>And all the reſt are often much afraid;</l>
+               <l>Thus with your Avarice you've increaſt at length,<note place="margin">Thoſe Shipping that moſt anoy moſt Dutch ſhips, taken from them for lack of defence or force and re<g ref="char:EOLunhyphen"/>ſiſtancee:</note>
+               </l>
+               <l>Together with your faintneſs, their great ſtrength:</l>
+               <l>Your Ships, your Men, your Ammunition taken,</l>
+               <l>By which ſo many Chriſtians have been ſhaken.</l>
+               <l>Your Ships, your Guns, your Ammunition ſerve</l>
+               <l>The Turk and Indian Confines to preſerve.<note place="margin">Witneſs their great Trade and Commerce where ought of worth is to be found.</note>
+               </l>
+               <l>The Coaſts of <hi>Africk,</hi> and the Indians all,</l>
+               <l>And every part within this Earthly Ball</l>
+               <l>You'd ſayl about for your own private gain,</l>
+               <l>Though you're not lov'd where ere you do remain:<note place="margin">The Indians, Eu<g ref="char:EOLhyphen"/>ropians, Africans and Turks loves them not.</note>
+               </l>
+               <l>Let the whole world declare the truth, you'l finde</l>
+               <l>That they'l unrip the baſeneſs of your minde:</l>
+               <l>You are ſo greedy,<note place="margin">They will do any thing to prefer their own inter eſt: <hi>Obſerve this Engliſh men.</hi>—Not long ſince the Poor diſtreſſed States, now The High &amp; Mighty Lords, the States General, <hi>&amp;c.</hi>
+                  </note> and ſo avaricious,</l>
+               <l>So jealous, ſo colloguing, ſo ſuſpicious,</l>
+               <l>And generally ſo nought you ſtill are found,</l>
+               <l>I wonder much you live above the ground.</l>
+               <l>Learn once to know, &amp; mind from whence you came,</l>
+               <l>You late were low, and ſhortly may the ſame,</l>
+               <l>Although you cannot change your <hi>Belgick</hi> faces,</l>
+               <l>Nor in the leaſt alter your ruſtick paces,<note place="margin">Their ſhips and goods fraudently owned and colour<g ref="char:EOLhyphen"/>ed by others, and their names and places from whence they came, chan<g ref="char:EOLhyphen"/>ged.</note>
+               </l>
+               <l>Nor put into new form your Giant-breeches,</l>
+               <l>And always are betrayed by your Speeches;</l>
+               <l>Yet are you pleas'd to re-baptize your Ships,</l>
+               <l>And give them new names with your cheating lips:</l>
+               <pb n="3" facs="tcp:171815:3"/>
+               <l> And with a Bribe or Pudding in your ſleeve,<note place="margin">The Dutch Ma<g ref="char:EOLhyphen"/>ſters &amp; men fre<g ref="char:EOLhyphen"/>quently ſayl our Engliſh ſhips con<g ref="char:EOLhyphen"/>trary to Law.</note>
+               </l>
+               <l>Sometimes your pleas'd to make us here believe</l>
+               <l>Your Ships are Engliſh, or elſe ſome other Nation</l>
+               <l>That forein is, to colour with perſwaſion</l>
+               <l>Some Goods prohibited, or do belong</l>
+               <l>To ſome Dutch Engliſh Merchant, tho't be wrong:</l>
+               <l>A thouſand ſlights more which I'le not rehearſe,<note place="margin">This may appear by a thouſand witneſſes.</note>
+               </l>
+               <l>Leſt it ſhould mount the ſcore, &amp; wiredraw my verſe.<note place="margin">Plenty of Engliſh Gold in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> &amp;c.</note>
+               </l>
+               <l>From us you do receive our richeſt Gold,</l>
+               <l>And in your arms the ſame you do enfold;</l>
+               <l>Our Wooll, Cloth, Stuff, Fulling, Earth,<note place="margin">They have more priviledges here, then our ſelves can obtain.</note> Lead &amp; Tin</l>
+               <l>From us t'enrich your ſelves, you daily win.</l>
+               <l>Theſe and an hundred Advantages more,</l>
+               <l>Arrives with you from our moſt fertile Shore.<note place="margin">Our own faults and neglects.</note>
+               </l>
+               <l>It's known ſo to you all, without all doubt,<note place="margin">Their Agents here get great Eſtates, drive great Trades, and by their purſes &amp; favors do what they pleaſe.</note>
+               </l>
+               <l>Who comes to dwell here, they will hardly out:</l>
+               <l>But in exchange, what have you to command?</l>
+               <l>Not th' tenth of that which groweth in our Land:</l>
+               <l>For our rich Goods you bring us Cickſhaws, Toys,</l>
+               <l>Cheeſe, Butter, Phrigmiticks, they're all your joys,<note place="margin">What conſider<g ref="char:EOLhyphen"/>albe doth the Uni<g ref="char:EOLhyphen"/>ted Provinces of their own growth yield us: <hi>Quere.</hi>
+                  </note>
+               </l>
+               <l>Your wealth, your treaſure, nought elſe doth appear</l>
+               <l>But what you forced are to fetch elſewhere:</l>
+               <l>You're ſenſible we lately made you ſtoop,</l>
+               <l>And brought your Button to our Engliſh Loop,<note place="margin">The late Wars teſtimony.</note>
+               </l>
+               <l>Your men, your ſhips, your ſtrength could not prevail,<note place="margin">The men of War then fired, ſunk, and run for it, the Merchant, men &amp; Fiſhers to a great number taken, as by the Liſt ap<g ref="char:EOLhyphen"/>peareth.</note>
+               </l>
+               <l>Though you did anſwer us with tooth and nayl;</l>
+               <l>And at the laſt it was the Lords good pleaſure</l>
+               <l>That you for raſhneſs ſhould repent at leiſure:</l>
+               <l>We brought you to our lock, now be not proud,</l>
+               <l>Leaſt that our Canons roar again more loud.<note place="bottom">They ſeek Peace, and ſign Articles in haſte, the Articles well drawn, but not ſo well kept, and ſince have recovered their Loſſes upon us, to the ruine of our Nation and Trade, many know to their coſt with a witneſs.</note>
+               </l>
+               <pb n="4" facs="tcp:171815:4"/>
+               <l> 
+                  <hi>Neptune</hi> hath worſted you,<note place="margin">The many great wrongs and inju<g ref="char:EOLhyphen"/>ries offered for<g ref="char:EOLhyphen"/>merly contain too large here to par<g ref="char:EOLhyphen"/>ticularize, and is left to the judge<g ref="char:EOLhyphen"/>ment of them that know.</note> if <hi>Mars</hi> appear</l>
+               <l>Upon your land, he'l give you cauſe to fear</l>
+               <l>Your horrid murthers and outragious acts,</l>
+               <l>Innumerable Juggles and Contracts,</l>
+               <l>To root out Nations, and their Rights deſtroy,</l>
+               <l>
+                  <hi>India's</hi> and <hi>Europe</hi> ſpeaks to their annoy,</l>
+               <l>And <hi>Neptunes</hi> witneſs on record ſtill ſtands</l>
+               <l>And ſpeaks the cruel actings of your hands;</l>
+               <l>
+                  <hi>Ambyona,</hi> and twice more, <hi>England</hi> remember,</l>
+               <l>And keep in mind as fifth day of <hi>November.</hi>
+               </l>
+               <l>Know,<note place="margin">This we are confi<g ref="char:EOLhyphen"/>dent, and they are fearful of, other<g ref="char:EOLhyphen"/>wiſe they would not ſo frequently compound for their offences and breach of, <hi>&amp;c.</hi>
+                  </note> know that <hi>Engliſh</hi> hearts were nere ſo low,</l>
+               <l>But able were to give a fatal blow</l>
+               <l>To up-ſtart <hi>Holland,</hi> therefore don't provoke</l>
+               <l>Our <hi>Engliſh</hi> Nation, leſt we do you choke</l>
+               <l>With ſuch a Pear you never well ſhall reliſh,</l>
+               <l>Which ſhall our <hi>Engliſh</hi> Nation much imbelliſh.</l>
+               <l>Tremble and fear,<note place="margin">We are compelled to conform, if not willing, much more ſhould they. Let them go on or ſtop their ſail, ere they have left us empty and bare of ſhipping, trade, and all.</note> we'l make you ſtand in awe,</l>
+               <l>And be afraid to break our <hi>Brittain</hi> Law,</l>
+               <l>And if you will to final ruine run,</l>
+               <l>And act like Jugglers as you have begun,</l>
+               <l>And go about to ſpoil our whole Commerce,</l>
+               <l>You ſoon may feel that Steel that ſhall you pierce.</l>
+               <l>And as you have appeared to <hi>Spain</hi> a friend,<note place="margin">'Tis known how their ſhips and men aſſiſted <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> and <hi>Spain</hi> againſt us, beſides they are the carri<g ref="char:EOLhyphen"/>ers of all between, <hi>&amp;c.</hi>
+                  </note>
+               </l>
+               <l>And covert in this Conteſt ayd them lend;</l>
+               <l>So for a certain, treacherous <hi>Dutchman,</hi> know,</l>
+               <l>Our greateſt ſtrength upon you we will ſhow.</l>
+               <l>If humane juſtice reach you not, be ſure</l>
+               <l>That Divine Juſtice ſtroke you muſt endure.</l>
+               <l>Let this for aye remain within your breſt,</l>
+               <l>That to eternity you may be bleſt.<note place="margin">If all their faults provoke not our patience to requite them, they will be met with—</note>
+               </l>
+               <l>Deal juſtly, candidly, let honeſty appear,</l>
+               <l>That ſo you may be freed from Pannick fear.</l>
+               <pb n="5" facs="tcp:171815:4"/>
+               <l> Look on Religion, Conſcience play good parts,<note place="margin">Their groſs feed<g ref="char:EOLhyphen"/>ing and clowniſh breeding, bath quite ſpoiled them from being nobly minded.</note>
+               </l>
+               <l>And though not noble, ſhew your ſelves true hearts;</l>
+               <l>Do not equivocate, do righteous things,</l>
+               <l>Give due reſpect to Nations, Laws and Kings;</l>
+               <l>Leave of your former juggles, upright be,<note place="margin">If they minded this as well as they do their cope<g ref="char:EOLhyphen"/>handle, they were admirable men. We muſt all ap<g ref="char:EOLhyphen"/>pear.</note>
+               </l>
+               <l>And for the future all baſe actions flee:</l>
+               <l>Remember that a dreadful day doth come,</l>
+               <l>A day of Judgement, day of ſaddeſt doom,</l>
+               <l>Wherein you'l ſtand to render an account</l>
+               <l>Before a Judge, whoſe juſtice doth ſurmount</l>
+               <l>The Scripture, heavens, ſeaſons,<note place="margin">Be ready.</note> changes ſhow</l>
+               <l>The time is neer that we to Judgement go.</l>
+            </lg>
+            <byline>Compiled and publiſhed in the year of Expectation of the amendment of their Maners and Lives, by <hi>T.P.</hi> a true friend of the <hi>Engliſh</hi> intereſt, dwelling in <hi>Plain-dealing-ſtreet</hi> within two doors of the ſign of the <hi>Dutch Juggling-box,</hi> being in the year of our Lord God, 1658.</byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
